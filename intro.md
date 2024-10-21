@@ -1,7 +1,8 @@
 # 6561 - Aprendizaje Automático
 
-**Página oficial del curso**: [ml.ucv.ai](https://ml.ucv.ai]
-**Instructor**: [Fernando Crema García](https://ml.ucv.ai/contacto)
+1. **Página oficial del curso**: [ml.ucv.ai](https://ml.ucv.ai]
+1. **Instructor**: [Fernando Crema García](https://ml.ucv.ai/contacto)
+
 ---
 
 El aprendizaje automático (Machine Learning) ha adquirido una influencia significativa en diversas áreas de nuestra vida hoy en día siendo uno de los perfiles profesionales con mayor demanda hoy día en el campo de ciencias de la computación. Desde aplicaciones de reconocimiento facial en nuestros dispositivos móviles hasta recomendaciones de productos personalizadas en plataformas de comercio electrónico, culminando en aplicaciones de procesamiento de lenguaje natural, el aprendizaje automático

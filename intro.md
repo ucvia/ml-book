@@ -1,6 +1,6 @@
 # 6561 - Aprendizaje Automático
 
-1. **Página oficial del curso**: [ml.ucv.ai](https://ml.ucv.ai]
+1. **Página oficial del curso**: [ml.ucv.ai](https://ml.ucv.ai)
 1. **Instructor**: [Fernando Crema García](https://ml.ucv.ai/contacto)
 
 ---

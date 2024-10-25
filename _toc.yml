@@ -1,7 +1,26 @@
 # In _toc.yml
 format: jb-book
 root: intro
-chapters:
-- file: preliminares
-- file: preliminares_regresion
-- file: regresion
+options:
+  numbered: True
+parts:
+  - caption: Introducción
+    chapters:
+    - file: notebooks/introduccion/preliminares
+    - file: notebooks/introduccion/preliminares_regresion
+      sections:
+      - file: notebooks/introduccion/04_Bias_Variance_Tradeoff
+      - file: notebooks/introduccion/05_Seleccion_Evaluacion_Pipeline
+  - caption: Aprendizaje supervisado
+    chapters:
+    - file: notebooks/supervisado/regresion
+    - file: notebooks/supervisado/regularizacion
+    - file: notebooks/supervisado/regresion_logistica
+    - file: notebooks/supervisado/06_svm
+    - file: notebooks/supervisado/07_arboles_de_decision
+  - caption: Aprendizaje no supervisado
+    chapters:
+    - file: notebooks/no_supervisado/09_Agrupamieno_clustering
+  - caption: Laboratorios
+    chapters:
+    - file: notebooks/laboratorios/10_CNN_live_coding

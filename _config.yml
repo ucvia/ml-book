@@ -4,6 +4,11 @@ author: Fernando Crema Garcia
 logo: logo.png
 execute:
   execute_notebooks: force
+html:
+  announcement: "Beta v1.0.0: Sitio en construcción!"
+  comments:
+    utterances:
+      repo: "ucvia/ml-book"
 
 # Add a bibtex file so that we can create citations
 bibtex_bibfiles:

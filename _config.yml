@@ -4,6 +4,8 @@ author: Fernando Crema Garcia
 logo: logo.png
 execute:
   execute_notebooks: force
+launch_buttons:
+  colab_url: "https://colab.research.google.com"
 html:
   announcement: "Beta v1.0.0: Sitio en construcción!"
   comments:

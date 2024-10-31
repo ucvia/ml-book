@@ -6,7 +6,7 @@ options:
 parts:
   - caption: Introducción
     chapters:
-    - file: notebooks/introduccion/preliminares
+    - file: notebooks/introduccion/00_Introducción_a_ML
     - file: notebooks/introduccion/preliminares_regresion
       sections:
       - file: notebooks/introduccion/04_Bias_Variance_Tradeoff

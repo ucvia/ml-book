@@ -2,6 +2,9 @@
 title: Aprendizaje Automátivo
 author: Fernando Crema Garcia
 logo: logo.png
+repository:
+  url: https://github.com/ucvia/ml-book
+  branch: main
 execute:
   execute_notebooks: force
 launch_buttons:

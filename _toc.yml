@@ -7,7 +7,7 @@ parts:
   - caption: Introducción
     chapters:
     - file: notebooks/introduccion/00_Introducción_a_ML
-    - file: notebooks/introduccion/preliminares_regresion
+    - file: notebooks/introduccion/00_Álgebra_Lineal
       sections:
       - file: notebooks/introduccion/04_Bias_Variance_Tradeoff
       - file: notebooks/introduccion/05_Seleccion_Evaluacion_Pipeline
